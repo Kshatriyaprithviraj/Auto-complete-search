@@ -4,6 +4,7 @@ A simple autocomplete search created using reactjs and [fake api](https://reqres
 
 # To run 🚙
 
-> `git clone git remote add origin https://github.com/Kshatriyaprithviraj/Auto-complete-search.git ' <br> `yarn start'
+> `git clone git remote add origin https://github.com/Kshatriyaprithviraj/Auto-complete-search.git' <br>
+> `yarn start'
 
 Cheers! 🥂
